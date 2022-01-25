@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# misc
+ionctura-collab.Rproj
+data/
+doc/
+results/
+results_by_subject/
+.DS_Store
+
